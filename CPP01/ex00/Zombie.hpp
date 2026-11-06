@@ -27,7 +27,7 @@ public:
     void announce(void);
 };
 
-// Standalone function prototypes required by the subject
+// Standalone function prototypes required
 Zombie* newZombie(std::string name);
 void    randomChump(std::string name);
 

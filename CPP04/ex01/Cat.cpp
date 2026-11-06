@@ -30,7 +30,7 @@ Cat::~Cat() {
 }
 
 void Cat::makeSound() const {
-    std::cout << "Woof! Woof!" << std::endl;
+    std::cout << "Meow! Meow!" << std::endl;
 }
 
 void Cat::setIdea(int index, const std::string& idea) {
